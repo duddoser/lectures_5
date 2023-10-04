@@ -14,3 +14,5 @@ PIE position-independent executable
 ----goto
 ----int *z = malloc(123*sizeof(int)) # нельзя в плюсах
 ассемблеры на одной архитектуре могуть быть не одни
+
+команда ldd
